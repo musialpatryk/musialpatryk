@@ -1,4 +1,4 @@
-👋 Hi, my name is Patrick and I am beginner front-end developer. 
+👋 Hi, my name is Patrick and I am front-end developer. 
 
 I’m interested in modern Javascript libraries and frameworks like Angular, React or Gatsby.
 
