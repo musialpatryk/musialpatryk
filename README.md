@@ -1,6 +1,4 @@
-👋 Hi, my name is Patrick and I am front-end developer. 
-
-I’m interested in modern Javascript libraries and frameworks like Angular, React or Gatsby.
+👋 Hi, my name is Patrick and I am software engineer.
 
 <!---
 musialpatryk/musialpatryk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
